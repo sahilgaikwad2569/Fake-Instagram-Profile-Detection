@@ -245,14 +245,7 @@ This project demonstrates the effectiveness of Machine Learning techniques for d
 
 ---
 
-## Authors
 
-- Dhanashree Ravindra More
-- Dhanshree Ganesh Gavali
-- Payal Rohidas Pawshe
-- Sahil Sanjay Gaikwad
-
----
 
 ## License
 
